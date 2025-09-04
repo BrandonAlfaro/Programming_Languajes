@@ -1,7 +1,13 @@
 # Programming_Languages
 Summary of the main features of each programming language (C, C++, C# and Python)
 
-![Programming Languajes](img/Languages.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrandonAlfaro/Programming_Languajes/f05275caea79194cbcecdd15efa9acb43f21bc4f/img/C.svg" width="300" alt="C Language" />
+  <img src="https://raw.githubusercontent.com/BrandonAlfaro/Programming_Languajes/f05275caea79194cbcecdd15efa9acb43f21bc4f/img/C++.svg" width="300" alt="C++ Language" />
+  <img src="https://raw.githubusercontent.com/BrandonAlfaro/Programming_Languajes/f05275caea79194cbcecdd15efa9acb43f21bc4f/img/C%23.svg" width="300" alt="C# Language" />
+  <img src="https://raw.githubusercontent.com/BrandonAlfaro/Programming_Languajes/f05275caea79194cbcecdd15efa9acb43f21bc4f/img/Python.svg" width="300" alt="Python Language" />
+</p>
+
 
 |  Feature    | C Language  | C++ Language  | C# Language | Python Language |
 |  :------    | :------------: |:---------------:| :-----:| :-----: |
