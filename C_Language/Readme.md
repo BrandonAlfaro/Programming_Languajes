@@ -517,7 +517,7 @@ C has been the foundation of many widely-used and important software projects:
 
 ### 🎯 Practice Platforms
 
- - HackerRank – C Challenges → practice small to advanced problems.
+- HackerRank – C Challenges → practice small to advanced problems.
 
 - LeetCode – C Programming → data structures and algorithms practice.
 
@@ -530,25 +530,25 @@ C has been the foundation of many widely-used and important software projects:
 
 ### 📝 Key Points About C
 
-Procedural and mid-level language combining low-level efficiency with high-level structure.
+- Procedural and mid-level language combining low-level efficiency with high-level structure.
 
-Compiled language → high performance and direct execution by CPU.
+- Compiled language → high performance and direct execution by CPU.
 
-Manual memory management, pointers, and direct hardware access.
+- Manual memory management, pointers, and direct hardware access.
 
-Wide use in operating systems, embedded systems, system utilities, and performance-critical software.
+- Wide use in operating systems, embedded systems, system utilities, and performance-critical software.
 
-Foundation for many modern languages (C++, C#, Java).
+- Foundation for many modern languages (C++, C#, Java).
 
-⚡ When to Use C
+### ⚡ When to Use C
 
-When performance and control over hardware are critical.
+- When performance and control over hardware are critical.
 
-Developing operating systems, drivers, or embedded systems.
+- Developing operating systems, drivers, or embedded systems.
 
-Building portable, efficient libraries.
+- Building portable, efficient libraries.
 
-Learning fundamental programming concepts and memory management that apply to other languages.
+- Learning fundamental programming concepts and memory management that apply to other languages.
 
 ---
 ---
